@@ -45,12 +45,12 @@ $(function(){
 		            },
 		            data: [
 		            	{name: '瑶海区', value: 7},
-	                    {name: '庐阳区', value: 0},
-	                    {name: '蜀山区', value: 3},
-	                    {name: '包河区', value: 4},
+	                    {name: '庐阳区', value: 3},
+	                    {name: '蜀山区', value: 6},
+	                    {name: '包河区', value: 5},
 	                    {name: '长丰县', value: 0},
-	                    {name: '肥东县', value: 12},
-	                    {name: '肥西县', value: 0},
+	                    {name: '肥东县', value: 14},
+	                    {name: '肥西县', value: 1},
 	                    {name: '庐江县', value: 6},
 	                    {name: '巢湖市', value: 3},
 		            ]
