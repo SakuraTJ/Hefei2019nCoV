@@ -5,9 +5,9 @@ $(function(){
 		echarts.registerMap('hefei',geoJson,{});
 		var option = {
 			title: {
-            text: '合肥市周边新型肺炎确诊情况(1-30)',
+            text: '合肥市周边新型肺炎确诊情况(2-1)',
             subtext: '数据来自安徽省卫健委',
-            sublink: 'http://wjw.hefei.gov.cn/'
+            sublink: 'http://wjw.ah.gov.cn/'
             },
 		    tooltip: {
 		        trigger: 'item',
